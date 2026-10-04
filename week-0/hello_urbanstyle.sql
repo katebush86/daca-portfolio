@@ -16,4 +16,4 @@ INSERT INTO team_members (name, role, week)
 VALUES ('Helena Toompalu', 'Andmeanaluutik', 0);
 
 -- Vaata tulemust
-SELECT * FROM team_members ORDER BY joined_at;
+SELECT * FROM team_members ORDER BY joined_date;
