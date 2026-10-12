@@ -32,13 +32,15 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 
 \### Week 1: SQL Põhitõed
 
-\- (tulemas...)
+\- Uurisin Sales tabelit SQL päringutega (SELECT, WHERE, ORDER BY, LIMIT, DISTINCT, COUNT(*)) ✅
+\- Leidsin, et tabelis on 15234 rida ja 12 veergu ning puudu on 1487 kliendi andmed ✅
+\- Osalesin meeskonna andmemaastiku koostamisel ✅
 
 &#x20;
 
 \### Week 2: SQL Andmete Puhastamine
 
-\- (tulemas...)
+\- Puhastasin Customers tabelit (DELETE + WHERE, UPDATE + SET, COALESCE, CASE WHEN, TRIM/INITCAP) ✅
 
 &#x20;
 

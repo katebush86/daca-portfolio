@@ -1,4 +1,4 @@
-Customers tabeli üphastamisraport:
+Customers tabeli puhastamisraport:
 
 | Kategooria                   | Leitud probleeme | Kirjeldus                                   |
 | ---------------------------- | ---------------- | ------------------------------------------- |
