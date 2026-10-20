@@ -1,0 +1,1 @@
+Kontrollisin sel nädalal tooteid ja tegin inventuuri
