@@ -1,2 +1,2 @@
 # Nädal 9
-Meeskonna koonraport: 
+Meeskonna koondraport: 

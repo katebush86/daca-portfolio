@@ -1,2 +1,2 @@
 # Nädal 6
-Meeskonna koonraport: 
+Meeskonna koondraport: 

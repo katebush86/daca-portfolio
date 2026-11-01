@@ -1,2 +1,2 @@
 # Nädal 7
-Meeskonna koonraport: 
+Meeskonna koondraport: 

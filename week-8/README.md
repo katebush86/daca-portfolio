@@ -1,2 +1,2 @@
 # Nädal 8
-Meeskonna koonraport: 
+Meeskonna koondraport: 
